@@ -1,0 +1,961 @@
+    <link href="https://www.worldnovel.online/wp-content/themes/new-novel/assets_files/media1024.css" media="screen and (min-width: 1024px)" rel="stylesheet" type="text/css"/>
+     <link href="https://www.worldnovel.online/wp-content/themes/new-novel/assets_files/media1270.css" media="screen and (min-width: 1270px)" rel="stylesheet" type="text/css"/>
+     <link href="https://www.worldnovel.online/wp-content/themes/new-novel/assets_files/OneSignalSDKStyles.css" rel="stylesheet"/>
+     <noscript>
+      <style type="text/css">
+       #wptime-plugin-preloader{
+                                display:none !important;
+                        }
+      </style>
+     </noscript>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body attr="1890017" bagian="" class="fade-out">
+  <input id="perhitunganjs" type="hidden" value="1890017"/>
+  <header class="header">
+   <nav class="navbar navbar-expand-lg top-menu">
+    <div class="container">
+     <div class="collapse navbar-collapse show" id="bs-top-collapse">
+      <ul class="navbar-nav ml-auto" id="menu-top-menu-before-login">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-342106 nav-item" id="menu-item-342106" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a class="nav-link" href="https://www.worldnovel.online/login" title="Login">
+         Login
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243901 nav-item" id="menu-item-243901" itemscope="itemscope" 
+itemtype="https://www.schema.org/SiteNavigationElement">
+        <a class="nav-link" href="https://www.worldnovel.online/register/" title="Register">
+         Register
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </nav>
+   <nav class="navbar navbar-expand-sm navbar-light bg-white main-menu">
+    <div class="container">
+     <a class="navbar-brand" href="https://www.worldnovel.online/">
+     </a>
+     <button aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler d-lg-none" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button">
+      <span class="fa fa-bars">
+      </span>
+     </button>
+     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="navbar-nav ml-auto" id="menu-main-menu-before-login">
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-268853 nav-item" id="menu-item-268853" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a class="nav-link" href="/" title="Beranda">
+         Beranda
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249270 nav-item" id="menu-item-249270" itemscope="itemscope" 
+itemtype="https://www.schema.org/SiteNavigationElement">
+        <a class="nav-link" href="https://www.worldnovel.online/series-finder/" title="Series Finder">
+         Series Finder
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-327476 nav-item" id="menu-item-327476" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement">
+        <a class="nav-link" href="/series-ranking" title="Series Ranking">
+         Series Ranking
+        </a>
+       </li>
+       <li class="menu-item menu-search nav-item" id="js-trigger-search">
+        <a class="nav-link" href="javascript:void(0)" title="Search">
+         <span class="fa fa-search">
+         </span>
+        </a>
+        <div class="writerist-search-ajax">
+         <form action="https://www.worldnovel.online/" method="GET" onkeydown="return event.key != 'Enter';">
+          <div class="form-group mb-0 form-input-search">
+           <input class="form-control" id="js-search-ajax" name="s"/>
+          </div>
+         </form>
+         <div class="found-items">
+         </div>
+        </div>
+       </li>
+       <li class="menu-item menu-themes nav-item">
+        <a class="nav-link" href="javascript:void(0)" id="js-trigger-themes" title="Themes">
+         <span class="fa fa-dice-d20">
+         </span>
+        </a>
+        <div class="themes-changer">
+         <div class="form-group mb-0">
+          <select class="form-control" id="js-menu-theme">
+           <option data-background="#dadada" data-color="#1f2129" data-name="grey-theme" value="default">
+            Grey
+           </option>
+           <option data-background="#FFF" data-color="#1D1D1D" data-name="white-theme" value="default">
+            White
+           </option>
+           <option data-background="#1D1D1D" data-color="#f8f8f8" data-name="black-theme" value="black">
+            Black
+           </option>
+          </select>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </nav>
+  </header>
+  <div class="sidebar-wrapper">
+  </div>
+  <div class="content-area" id="primary">
+   <main class="site-main" id="main">
+    <section class="section-novel">
+     <div class="container">
+      <div class="row">
+       <div class="col-12 col-md-8 col-lg-8">
+        <center>
+        </center>
+        <ul class="breadcrumb">
+         <li class="breadcrumb-item">
+          <a href="https://www.worldnovel.online/">
+           Home
+          </a>
+         </li>
+         <li aria-current="page" class="breadcrumb-item active">
+          I Have the Alchemy Emperor in My Head
+         </li>
+        </ul>
+        <div class="row">
+         <div class="col-12 col-md-3 col-lg-4">
+          <div class="d-flex flex-column justify-content-center p-5" style="margin-bottom:0 !important;">
+           <div class="mb-4" style="position: relative;  max-width: 300px;p-">
+            <img alt="Thumbnail I Have the Alchemy Emperor in My Head" class="lazy w-100" data-src="https://www.worldnovel.online/wp-content/uploads/i-have-the-alchemy-emperor-in-my-head.jpg"/>
+           </div>
+           <center>
+            <div class="w-100">
+             <div id="iadd-bookmark" onclick="alert('you need login to user this feature')" style="cursor:pointer;" title="Add I Have the Alchemy 
+Emperor in My Head to library">
+              <span class="fa fa-bookmark mr-2">
+              </span>
+              Add to library
+             </div>
+             <div>
+              <span id="js-current-pustaka">
+               3
+              </span>
+              users added to library
+             </div>
+            </div>
+            <center>
+            </center>
+           </center>
+          </div>
+          <div class="mb-4">
+           <p>
+            <span class="fa fa-eye">
+            </span>
+            10.9 K Views
+           </p>
+          </div>
+          <div class="mb-4 ratih">
+           <h3 class="fs-18">
+            Activity Stats
+           </h3>
+           <div class="renk">
+            Weekly Rank:
+            <span class="userrate rank">
+             #
+            </span>
+           </div>
+           <div class="renk">
+            Monthly Rank:
+            <span class="userrate rank">
+             #
+            </span>
+           </div>
+           <div class="renk">
+            All Time Rank:
+            <span class="userrate rank">
+             #
+            </span>
+           </div>
+          </div>
+          <div class="mb-4 ratih">
+           <h3 class="fs-18">
+            Rating
+           </h3>
+           <div class="post-ratings" id="post-ratings-1890017">
+            <img alt="1 Star" id="rating_1890017_1" onclick="rate_post();" onkeypress="rate_post();" onmouseout="ratings_off(5, 0, 0);" onmouseover="current_rating(1890017, 1, '1 Star');" src="https://www.worldnovel.online/wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" style="cursor: pointer; border: 0px;" title="1 Star">
+             <img alt="2 Stars" id="rating_1890017_2" onclick="rate_post();" onkeypress="rate_post();" onmouseout="ratings_off(5, 0, 0);" onmouseover="current_rating(1890017, 2, '2 Stars');" src="https://www.worldnovel.online/wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" style="cursor: pointer; border: 0px;" title="2 Stars"/>
+             <img alt="3 Stars" id="rating_1890017_3" onclick="rate_post();" onkeypress="rate_post();" onmouseout="ratings_off(5, 0, 0);" onmouseover="current_rating(1890017, 3, '3 Stars');" src="https://www.worldnovel.online/wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" style="cursor: pointer; border: 0px;" title="3 Stars"/>
+             <img alt="4 Stars" id="rating_1890017_4" onclick="rate_post();" onkeypress="rate_post();" onmouseout="ratings_off(5, 0, 0);" onmouseover="current_rating(1890017, 4, '4 Stars');" src="https://www.worldnovel.online/wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" style="cursor: pointer; border: 0px;" title="4 Stars"/>
+             <img alt="5 Stars" id="rating_1890017_5" onclick="rate_post();" onkeypress="rate_post();" onmouseout="ratings_off(5, 0, 0);" onmouseover="current_rating(1890017, 5, '5 Stars');" src="https://www.worldnovel.online/wp-content/plugins/wp-postratings/images/stars_crystal/rating_on.gif" style="cursor: pointer; border: 0px;" title="5 Stars"/>
+             <p>
+              (
+              <strong>
+               2
+              </strong>
+              votes,
+              <strong>
+               5,00
+              </strong>
+              )
+             </p>
+            </img>
+           </div>
+           <div class="post-ratings-loading" id="post-ratings-1890017-loading">
+            <img class="post-ratings-image" height="16" src="https://www.worldnovel.online/wp-content/plugins/wp-postratings/images/loading.gif" width="16"/>
+            Loading...
+           </div>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Title
+           </h3>
+           <p>
+            I Have the Alchemy Emperor in My Head
+           </p>
+          </div>
+          <div class="mb-4">
+           <p>
+            <span class="fa fa-list">
+            </span>
+            226 Chapters
+           </p>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Type
+           </h3>
+           <ul class="list inline-list">
+            <li>
+             Web Novel
+            </li>
+           </ul>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Country
+           </h3>
+           <ul class="list inline-list">
+            <li>
+             China
+            </li>
+           </ul>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Status
+           </h3>
+           <ul class="list inline-list">
+            <li>
+             Ongoing
+            </li>
+           </ul>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Genre
+           </h3>
+           <ul class="list inline-list">
+            <li>
+             <a class="underline" href="https://www.worldnovel.online/genre/fantasy" title="Apa pun yang melibatkan, tetapi tidak terbatas pada, sihir, dunia mimpi, dan dongeng.">
+              Fantasy
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Tags
+           </h3>
+           <ul class="list inline-list" id="tagku">
+           </ul>
+           <div id="loadMore">
+            Load more
+           </div>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Author
+           </h3>
+           <ul class="list">
+            <li>
+             Fu Xiaochen
+            </li>
+            <li>
+             傅啸尘
+            </li>
+            <li>
+            </li>
+           </ul>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Artist
+           </h3>
+           <ul class="list inline-list">
+            <li>
+             N/A
+            </li>
+           </ul>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Year
+           </h3>
+           <ul class="list inline-list">
+            <li>
+             2050
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="col-12 col-md-9 col-lg-8" id="isines">
+          <div class="tab">
+           <button class="tablinks active" onclick="openCity(event, 'maintab')">
+            Description
+           </button>
+           <button class="tablinks tampilkanchapter" onclick="openCity(event, 'listtab')">
+            Chapter Lists
+           </button>
+          </div>
+          <div class="tabcontent" id="maintab" style="display: block;">
+           <div class="post-content mb-4">
+            <div class="text-cloud">
+             <div id="editdescription">
+              <span>
+               Ini adalah era di mana orang memprioritaskan sains dan Martial Dao. Setelah bencana besar, umat manusia menemukan peradaban Zenith 
+Kuno. Mereka memasuki Zaman Kultivasi Hebat dan memulai perjalanan mereka untuk menjajah Alam Kunlun!
+              </span>
+              <span>
+               Ini adalah masa krisis bagi umat manusia dan banyak pembangkit tenaga listrik ambisius berjalan di antara mereka!
+              </span>
+              <span>
+               Chu Yunfan memperoleh warisan Kaisar Alkimia dari peradaban Zenith Kuno dan Ketuhanan dari makhluk tertinggi level-9. Bagaimana dia akan membuat tanda di zaman seperti itu?
+              </span>
+              <span>
+               Kamu jenius? Permisi, saya jenius!
+              </span>
+              <span>
+               Anda punya sumber daya? Aku akan mengalahkanmu dengan pil obatku.
+              </span>
+              <span>
+               Warisan? Warisan tertinggi ada di kepalaku! Jalan kita adalah dimensi tanpa akhir!
+              </span>
+              <span>
+               Ini adalah novel fantasi ketiga yang Xiao Chen curahkan hatinya sejak 'Soaring the Great Wasteland' dan 'Martial God Space'.       
+              </span>
+              <span>
+               Ini adalah era yang sama sekali baru. Ini adalah Zaman Kultivasi Hebat!
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="tabcontent" id="listtab">
+           <div class="mb-3">
+            <h3 class="fs-18">
+             Last Release
+            </h3>
+            <a href="https://www.worldnovel.online/i-have-the-alchemy-emperor-in-my-head/chapter-226-battle-against-the-monster-swarm/">
+             Chapter 226 - Battle Against the Monster Swarm
+            </a>
+           </div>
+           <div id="js-sticky-infox">
+            <div class="mb-3">
+             <div class="d-flex justify-content-between">
+              <h4 class="fs-18 mb-2">
+               List Chapter
+              </h4>
+              <span class="fa fa-sort-amount-asc cursor-pointer" data-target="#sortable-table" data-toggle="sort">
+              </span>
+             </div>
+             <div class="scrolled-element max-height-300" id="js-table-sticky">
+              <div class="table-resposive">
+               <table class="table table-bordered table-striped table-sm mb-0 d-flex flex-column" id="myTable">
+                <thead class="thead-dark d-flex flex-column">
+                 <tr class="d-flex flex-row">
+                  <th class="col-4">
+                   Date
+                  </th>
+                  <th class="col-8">
+                   Release
+                   <input id="carikan" placeholder="Find here..." type="text"/>
+                  </th>
+                 </tr>
+                </thead>
+                <tbody class="js-chapter-in-novel d-flex flex-column" data-category="1890017" data-novel="1890017" data-pagination="1" data-perpage="500" id="sortable-table">
+                </tbody>
+               </table>
+              </div>
+             </div>
+             <div class="d-flex justify-content-between mt-3 align-items-center">
+              <div class="mr-2 col-2">
+               Jump To
+              </div>
+              <div class="col-10 p-3">
+               <div class="d-flex" id="js-chpater-jump" style="position:relative; overflow: hidden; overflow-x: auto;">
+                <div class="jump-to mr-2" data-paged="1">
+                 <a href="javascript:void(0)">
+                  1
+                 </a>
+                </div>
+                <div class="jump-to mr-2" data-paged="2">
+                 <a href="javascript:void(0)">
+                  101
+                 </a>
+                </div>
+                <div class="jump-to mr-2" data-paged="3">
+                 <a href="javascript:void(0)">
+                  201
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="mb-4">
+           <h3 class="fs-18">
+            Associated Names
+           </h3>
+           <ul class="list">
+            <li>
+             修炼狂潮
+            </li>
+           </ul>
+          </div>
+          <div class="post-content mb-4">
+           <h4 class="fs-18 mb-2">
+            Related Series
+           </h4>
+           <div class="text-cloud" id="relasis">
+           </div>
+          </div>
+          <div class="">
+           <h4 class="fs-18 mb-4">
+            Contributors
+           </h4>
+           <div class="row">
+           </div>
+          </div>
+         </div>
+        </div>
+        <center>
+         <div id="M806725ScriptRootC1312587">
+         </div>
+         <script async="" src="https://jsc.adskeeper.com/a/d/adh.worldnovel.online.1312587.js">
+         </script>
+        </center>
+        <div class="row">
+         <div class="col-12">
+          <div>
+           <div class="wp-comment-designer-lite-wrap wpcd-template-2" data-template-demo="template-2">
+            <input id="wpcd-current-post-id" type="hidden" value="1890017"/>
+            <input id="wpcd-hide-replies" type="hidden" value=""/>
+            <div class="wpcd-comments-area" id="comments">
+             <div class="wpcd-comments-form wpcd-not-demo wpcd-not-logged-in" id="wpcd-comments">
+              <div class="comment-respond" id="respond">
+               <h3 class="comment-reply-title wpcd-clearfix" id="reply-title">
+                Leave A Comment
+                <small>
+                 <a href="/novel/i-have-the-alchemy-emperor-in-my-head/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">
+                  Cancel
+                 </a>
+                </small>
+               </h3>
+               <p class="must-log-in">
+                You must be
+                <a href="https://www.worldnovel.online/login?redir=https%3A%2F%2Fwww.worldnovel.online%2Fnovel%2Fi-have-the-alchemy-emperor-in-my-head%2F">
+                 logged in
+                </a>
+                to post a comment.
+               </p>
+              </div>
+             </div>
+             <div class="wpcd-comment-listing-wrap" id="wpcd-comment-listing-wrap">
+              <div class="wpcd-comments-title">
+               One Thought on I Have the Alchemy Emperor in My Head
+              </div>
+              <div class="wpcd-comment-list-inner">
+               <div class="wpcd-comment-listing-wrapper">
+                <ul class="wpcd-comment-list" data-comment-id="35109">
+                 <div class="wpcd-comment-template wpcd-comment-template-2 wpcd-clearfix" id="wpcd-unique-comment-35109">
+                  <div class="wpcd-comment-gravatar">
+                   <img scr="https://www.worldnovel.online/wp-content/uploads/gravatar-none.jpg" srcset="https://www.worldnovel.online/wp-content/uploads/gravatar-none.jpg"/>
+                  </div>
+                  <div class="wpcd-body">
+                   <div class="wpcd-top">
+                    <div class="wpcd-author-name">
+                     <a href="https://www.worldnovel.online/publisher/suta">
+                      suta
+                     </a>
+                    </div>
+                    <div class="wpcd-date-time" data-time="2022-05-21 19:33:47">
+                     <div class="wpcd-date">
+                      21 May 2022
+                     </div>
+                     <div class="wpcd-time">
+                      7:33pm
+                     </div>
+                    </div>
+                    <div class="wpcd-comment wpcd-comment-content-35109" id="wpcd-comment-35109">
+                     <p>
+                      <p>
+                       CRAZY UP MIN KALO BISAAAA
+                      </p>
+                     </p>
+                    </div>
+                   </div>
+                   <div class="wpcd-comment-footer">
+                    <div class="wpcd-reply-button">
+                     <a class="comment-reply-login butuhlogin" href="javascript:void(0);" rel="nofollow">
+                      Log masuk untuk Membalas
+                     </a>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="col-12 col-md-4 col-lg-4">
+        <center>
+        </center>
+       </div>
+      </div>
+     </div>
+    </section>
+   </main>
+  </div>
+  <div id="perantaras">
+  </div>
+  <footer translate="no">
+   <div class="wrapper">
+    <div class="col logo">
+     <img alt="logo-footer" class="footer-logo" src="https://www.worldnovel.online/wp-content/uploads/WorldNovel-Logo-01-Copy.png"/>
+     <span class="copyright">
+      © 2020 WorldNovel Online
+     </span>
+    </div>
+    <nav class="col links">
+     <div class="menu-footer-1-container">
+      <ul class="menu" id="menu-footer-1">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327471" id="menu-item-327471">
+        <a href="https://www.worldnovel.online/about/">
+         About
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-327472" id="menu-item-327472">      
+        <a href="https://www.worldnovel.online/privacy-policy/">
+         Privacy Policy
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327473" id="menu-item-327473">
+        <a href="https://www.worldnovel.online/terms-of-service/">
+         Terms of Service
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1744741" id="menu-item-1744741">
+        <a href="https://www.worldnovel.online/standar-kontributor/">
+         Standar Kontributor
+        </a>
+       </li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1581563" id="menu-item-1581563">
+        <a href="https://www.worldnovel.online/publisher-dan-contribute/">
+         Publisher and Contribute
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav class="col links">
+    </nav>
+    <nav class="col links">
+    </nav>
+    <nav class="col links">
+    </nav>
+   </div>
+  </footer>
+  <div class="modalku" id="modal1">
+   <div id="modele" style="">
+    <i class="fa fa-times tutupen">
+    </i>
+    <img class="loadingku" id="loadingku" src="https://www.worldnovel.online/wp-content/themes/new-novel/assets/images/loading.gif">
+     <iframe class="gayaku aku" data-src="https://www.worldnovel.online/login?redir=https%3A%2F%2Fwww.worldnovel.online%2Fnovel%2Fi-have-the-alchemy-emperor-in-my-head%2F" frameborder="0" id="myiframe" onload="" scrolling="no" src="about:blank">
+     </iframe>
+    </img>
+   </div>
+  </div>
+  <script src="https://www.worldnovel.online/wp-content/themes/new-novel/assets_files/isMobile.js" type="text/javascript">
+  </script>
+  <script src="https://www.worldnovel.online/wp-content/themes/new-novel/assets_files/sticky-kit.js" type="text/javascript">
+  </script>
+  <div class="modalku" id="modal1">
+   <div id="modele" style="">
+    <i class="fa fa-times tutupen">
+    </i>
+    <img class="loadingku" id="loadingku" src="https://www.worldnovel.online/wp-content/themes/new-novel/assets/images/loading.gif">
+     <iframe class="gayaku" data-src="https://www.worldnovel.online/login?redir=https%3A%2F%2Fwww.worldnovel.online%2Fnovel%2Fi-have-the-alchemy-emperor-in-my-head%2F" frameborder="0" id="myiframe" onload="" scrolling="no" src="about:blank">
+     </iframe>
+    </img>
+   </div>
+  </div>
+ </body>
+ <!--googleoff: all-->
+ <div data-nosnippet="true" id="cookie-law-info-bar">
+  <span>
+   <div class="cli-bar-container cli-style-v2">
+    <div class="cli-bar-message">
+     We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.
+     <div class="wt-cli-ccpa-element">
+      <a class="wt-cli-ccpa-opt-out" style="color:#333333">
+       Do not sell my personal information
+      </a>
+      .
+     </div>
+    </div>
+    <div class="cli-bar-btn_container">
+     <a class="cli_settings_button" role="button" style="margin:0px 10px 0px 5px">
+      Cookie settings
+     </a>
+     <a class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" data-cli_action="accept" id="cookie_action_close_header" role="button">
+      ACCEPT
+     </a>
+    </div>
+   </div>
+  </span>
+ </div>
+ <div data-nosnippet="true" id="cookie-law-info-again">
+  <span id="cookie_hdr_showagain">
+   Manage consent
+  </span>
+ </div>
+ <div aria-hidden="true" aria-labelledby="cliSettingsPopup" class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" role="dialog" tabindex="-1">
+  <div class="cli-modal-dialog" role="document">
+   <div class="cli-modal-content cli-bar-popup">
+    <button class="cli-modal-close" id="cliModalClose" type="button">
+     <svg class="" viewbox="0 0 24 24">
+      <path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z">
+      </path>
+      <path d="M0 0h24v24h-24z" fill="none">
+      </path>
+     </svg>
+     <span class="wt-cli-sr-only">
+      Close
+     </span>
+    </button>
+    <div class="cli-modal-body">
+     <div class="cli-container-fluid cli-tab-container">
+      <div class="cli-row">
+       <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+        <div class="cli-privacy-overview">
+         <h4>
+          Privacy Overview
+         </h4>
+         <div class="cli-privacy-content">
+          <div class="cli-privacy-content-text">
+           This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+          </div>
+         </div>
+         <a aria-label="Show more" class="cli-privacy-readmore" data-readless-text="Show less" data-readmore-text="Show more" role="button">      
+         </a>
+        </div>
+       </div>
+       <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+        <div class="cli-tab-section">
+         <div class="cli-tab-header">
+          <a class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab" role="button" tabindex="0">
+           Necessary
+          </a>
+          <div class="wt-cli-necessary-checkbox">
+           <input checked="checked" class="cli-user-preference-checkbox" data-id="checkbox-necessary" id="wt-cli-checkbox-necessary" type="checkbox">
+            <label class="form-check-label" for="wt-cli-checkbox-necessary">
+             Necessary
+            </label>
+           </input>
+          </div>
+          <span class="cli-necessary-caption">
+           Always Enabled
+          </span>
+         </div>
+         <div class="cli-tab-content">
+          <div class="cli-tab-pane cli-fade" data-id="necessary">
+           <div class="wt-cli-cookie-description">
+            Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+            <table class="cookielawinfo-row-cat-table cookielawinfo-winter">
+             <thead>
+              <tr>
+               <th class="cookielawinfo-column-1">
+                Cookie
+               </th>
+               <th class="cookielawinfo-column-3">
+                Duration
+               </th>
+               <th class="cookielawinfo-column-4">
+                Description
+               </th>
+              </tr>
+             </thead>
+             <tbody>
+              <tr class="cookielawinfo-row">
+               <td class="cookielawinfo-column-1">
+                cookielawinfo-checbox-analytics
+               </td>
+               <td class="cookielawinfo-column-3">
+                11 months
+               </td>
+               <td class="cookielawinfo-column-4">
+                This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+               </td>
+              </tr>
+              <tr class="cookielawinfo-row">
+               <td class="cookielawinfo-column-1">
+                cookielawinfo-checbox-functional
+               </td>
+               <td class="cookielawinfo-column-3">
+                11 months
+               </td>
+               <td class="cookielawinfo-column-4">
+                The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+               </td>
+              </tr>
+              <tr class="cookielawinfo-row">
+               <td class="cookielawinfo-column-1">
+                cookielawinfo-checbox-others
+               </td>
+               <td class="cookielawinfo-column-3">
+                11 months
+               </td>
+               <td class="cookielawinfo-column-4">
+                This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+               </td>
+              </tr>
+              <tr class="cookielawinfo-row">
+               <td class="cookielawinfo-column-1">
+                cookielawinfo-checkbox-necessary
+               </td>
+               <td class="cookielawinfo-column-3">
+                11 months
+               </td>
+               <td class="cookielawinfo-column-4">
+                This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+               </td>
+              </tr>
+              <tr class="cookielawinfo-row">
+               <td class="cookielawinfo-column-1">
+                cookielawinfo-checkbox-performance
+               </td>
+               <td class="cookielawinfo-column-3">
+                11 months
+               </td>
+               <td class="cookielawinfo-column-4">
+                This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+               </td>
+              </tr>
+              <tr class="cookielawinfo-row">
+               <td class="cookielawinfo-column-1">
+                viewed_cookie_policy
+               </td>
+               <td class="cookielawinfo-column-3">
+                11 months
+               </td>
+               <td class="cookielawinfo-column-4">
+                The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. 
+It does not store any personal data.
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="cli-tab-section">
+         <div class="cli-tab-header">
+          <a class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab" role="button" tabindex="0">
+           Functional
+          </a>
+          <div class="cli-switch">
+           <input class="cli-user-preference-checkbox" data-id="checkbox-functional" id="wt-cli-checkbox-functional" type="checkbox">
+            <label class="cli-slider" data-cli-disable="Disabled" data-cli-enable="Enabled" for="wt-cli-checkbox-functional">
+             <span class="wt-cli-sr-only">
+              Functional
+             </span>
+            </label>
+           </input>
+          </div>
+         </div>
+         <div class="cli-tab-content">
+          <div class="cli-tab-pane cli-fade" data-id="functional">
+           <div class="wt-cli-cookie-description">
+            Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect 
+feedbacks, and other third-party features.
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="cli-tab-section">
+         <div class="cli-tab-header">
+          <a class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab" role="button" tabindex="0">
+           Performance
+          </a>
+          <div class="cli-switch">
+           <input class="cli-user-preference-checkbox" data-id="checkbox-performance" id="wt-cli-checkbox-performance" type="checkbox">
+            <label class="cli-slider" data-cli-disable="Disabled" data-cli-enable="Enabled" for="wt-cli-checkbox-performance">
+             <span class="wt-cli-sr-only">
+              Performance
+             </span>
+            </label>
+           </input>
+          </div>
+         </div>
+         <div class="cli-tab-content">
+          <div class="cli-tab-pane cli-fade" data-id="performance">
+           <div class="wt-cli-cookie-description">
+            Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="cli-tab-section">
+         <div class="cli-tab-header">
+          <a class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab" role="button" tabindex="0">
+           Analytics
+          </a>
+          <div class="cli-switch">
+           <input class="cli-user-preference-checkbox" data-id="checkbox-analytics" id="wt-cli-checkbox-analytics" type="checkbox">
+            <label class="cli-slider" data-cli-disable="Disabled" data-cli-enable="Enabled" for="wt-cli-checkbox-analytics">
+             <span class="wt-cli-sr-only">
+              Analytics
+             </span>
+            </label>
+           </input>
+          </div>
+         </div>
+         <div class="cli-tab-content">
+          <div class="cli-tab-pane cli-fade" data-id="analytics">
+           <div class="wt-cli-cookie-description">
+            Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="cli-tab-section">
+         <div class="cli-tab-header">
+          <a class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab" role="button" tabindex="0">        
+           Advertisement
+          </a>
+          <div class="cli-switch">
+           <input class="cli-user-preference-checkbox" data-id="checkbox-advertisement" id="wt-cli-checkbox-advertisement" type="checkbox">       
+            <label class="cli-slider" data-cli-disable="Disabled" data-cli-enable="Enabled" for="wt-cli-checkbox-advertisement">
+             <span class="wt-cli-sr-only">
+              Advertisement
+             </span>
+            </label>
+           </input>
+          </div>
+         </div>
+         <div class="cli-tab-content">
+          <div class="cli-tab-pane cli-fade" data-id="advertisement">
+           <div class="wt-cli-cookie-description">
+            Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="cli-tab-section">
+         <div class="cli-tab-header">
+          <a class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab" role="button" tabindex="0">
+           Others
+          </a>
+          <div class="cli-switch">
+           <input class="cli-user-preference-checkbox" data-id="checkbox-others" id="wt-cli-checkbox-others" type="checkbox"/>
+           <label class="cli-slider" data-cli-disable="Disabled" data-cli-enable="Enabled" for="wt-cli-checkbox-others">
+            <span class="wt-cli-sr-only">
+             Others
+            </span>
+           </label>
+          </div>
+         </div>
+         <div class="cli-tab-content">
+          <div class="cli-tab-pane cli-fade" data-id="others">
+           <div class="wt-cli-cookie-description">
+            Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cli-modal-footer">
+     <div class="wt-cli-element cli-container-fluid cli-tab-container">
+      <div class="cli-row">
+       <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+        <div class="cli-tab-footer wt-cli-privacy-overview-actions">
+         <a class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn" data-cli-action="accept" id="wt-cli-privacy-save-btn" role="button" tabindex="0">
+          SAVE &amp; ACCEPT
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="cli-modal-backdrop cli-fade cli-settings-overlay">
+ </div>
+ <div class="cli-modal-backdrop cli-fade cli-popupbar-overlay">
+ </div>
+ <!--googleon: all-->
+ <link href="https://www.worldnovel.online/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-table.css?ver=2.1.2" id="cookie-law-info-table-css" media="all" rel="stylesheet" type="text/css">
+  <script id="wp-postratings-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/www.worldnovel.online\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/www.worldnovel.online\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars_crystal","image_ext":"gif","max":"5","show_loading":"1","show_fading":"1","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://www.worldnovel.online/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif";;
+/* ]]> */
+  </script>
+  <script id="wp-postratings-js" src="https://www.worldnovel.online/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.89" type="text/javascript">
+  </script>
+  <script id="novelid-mian-js" src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.6/js/swiper.min.js" type="text/javascript">
+  </script>
+  <script id="novelid-mian2-js" src="https://www.worldnovel.online/wp-content/themes/new-novel/assets/front/js/mian.js" type="text/javascript">   
+  </script>
+  <script id="novelid-tiny-mce-js" src="https://www.worldnovel.online/wp-content/themes/new-novel/assets/plugins/tinymce/js/tinymce/tinymce.min.js" type="text/javascript">
+  </script>
+  <script id="novelid-app-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var wpSettingsApi = {"root":"https:\/\/www.worldnovel.online\/wp-json\/","nonce":"fe166c476a"};
+/* ]]> */
+  </script>
+  <script id="novelid-app-js" src="https://www.worldnovel.online/wp-content/themes/new-novel/assets/js/app.js?ver=1653835080" type="text/javascript">
+  </script>
+  <script id="novelid-sli-js" src="https://www.worldnovel.online/wp-content/themes/new-novel/assets/front/js/lc_switch.js" type="text/javascript">  </script>
+  <script id="novelid-jqueryq-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var my_ajax_object = {"ajax_url":"https:\/\/www.worldnovel.online\/wp-admin\/admin-ajax.php","nonce":"fe166c476a","apaan":"https:\/\/www.worldnovel.online\/wp-content\/themes\/new-novel\/assets\/front\/js\/lc_switch.js","apaan2":"https:\/\/www.worldnovel.online\/wp-content\/themes\/new-novel\/assets\/js\/app.js","malas":"https:\/\/cdn.jsdelivr.net\/npm\/vanilla-lazyload@12.1.0\/dist\/lazyload.min.js","apinya":"https:\/\/www.worldnovel.online\/wp-json\/novel-id\/v1\/"};
+/* ]]> */
+  </script>
+  <script id="novelid-jqueryq-js" src="https://www.worldnovel.online/wp-content/themes/new-novel/assets/front/js/jqku.js?v=1653835080" type="text/  <script id="underscore-js" src="https://www.worldnovel.online/wp-includes/js/underscore.min.js?ver=1.13.3" type="text/javascript">
+  </script>
+  <script id="backbone-js" src="https://www.worldnovel.online/wp-includes/js/backbone.min.js?ver=1.4.1" type="text/javascript">
+  </script>
+  <script id="wp-api-request-js-extra" type="text/javascript">
+   /* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.worldnovel.online\/wp-json\/","nonce":"fe166c476a","versionString":"wp\/v2\/"};
+/* ]]> */
+  </script>
+  <script id="wp-api-request-js" src="https://www.worldnovel.online/wp-includes/js/api-request.min.js?ver=6.0" type="text/javascript">
+  </script>
+  <script id="wp-api-js" src="https://www.worldnovel.online/wp-includes/js/wp-api.min.js?ver=6.0" type="text/javascript">
+  </script>
+ </link>
+</html>
